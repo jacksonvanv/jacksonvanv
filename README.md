@@ -5,8 +5,8 @@ Hi, I’m Jackson! 👋
 I’m interested in associate/rotational product management roles starting summer 2025. I am currently a senior at the University of Chicago studying math and economics.
 
 #### Links
-##### https://www.ipa-chart.com/
-An interactive international phonetic alphabet (IPA) chart with audio for all known sounds across human languages.
+**https://www.ipa-chart.com/**
+- An interactive international phonetic alphabet (IPA) chart with audio for all known sounds across human languages.
 
 #### My projects
 
