@@ -14,6 +14,6 @@ After experience on both the analytics side and a more classic PM role, I feel t
 
 #### My projects
 
-This Github is a collection of personal projects I'm working on. As a math/economics major, I recognize that I might not have as much programming experience as most pure computer science majors. Though I've taken multiple CS courses, I wanted to showcase some of my recent coding work. All these projects are ideated, designed, and developed entirely by me. I have some more work from courses at UChicago that I am happy to share upon request!
+This Github is a collection of personal projects I'm working on. Despite primarily studying math and economics, I have taken and enjoyed multiple CS courses, primarily using Python. I have some more work from UChicago classes that I am happy to share upon request! This collection, though, is all coding work that I have done separate from class to hone my skills and continue practicing.
 
 📫 Feel free to reach me by email at jacksonvanvooren@gmail.com
