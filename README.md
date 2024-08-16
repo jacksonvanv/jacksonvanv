@@ -13,6 +13,9 @@ I’m interested in associate/rotational product management roles starting summe
 - https://jacksonvanv.github.io/wingwatch/
 - Flight tracker allowing users to search by route or flight number that shows the key information on a simple UI
 
+**Connect 4**
+- PyGame Connect 4 for two players
+- Supports Connect N, where players only win with N in a row
 
 This Github is a collection of personal projects I'm working on. Despite primarily studying math and economics, I have taken and enjoyed multiple CS courses, primarily using Python. I have some more work from UChicago classes that I am happy to share upon request! This collection, though, is all coding work that I have done separate from class to hone my skills and continue practicing.
 
