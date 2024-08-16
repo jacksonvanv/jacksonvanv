@@ -4,11 +4,14 @@ Hi, I’m Jackson! 👋
 
 I’m interested in associate/rotational product management roles starting summer 2025. I am currently a senior at the University of Chicago studying math and economics.
 
-#### Links
-**https://www.ipa-chart.com/**
-- An interactive international phonetic alphabet (IPA) chart with audio for all known sounds across human languages.
-
 #### My projects
+**IPA Chart**
+- https://www.ipa-chart.com/
+- Interactive international phonetic alphabet (IPA) chart with audio for all known sounds across human languages
+**Wing Watch Flight Tracker**
+- https://jacksonvanv.github.io/wingwatch/
+- Flight tracker allowing users to search by route or flight number that shows the key information on a simple UI
+
 
 This Github is a collection of personal projects I'm working on. Despite primarily studying math and economics, I have taken and enjoyed multiple CS courses, primarily using Python. I have some more work from UChicago classes that I am happy to share upon request! This collection, though, is all coding work that I have done separate from class to hone my skills and continue practicing.
 
