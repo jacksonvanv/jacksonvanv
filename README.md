@@ -13,6 +13,10 @@ I’m interested in associate/rotational product management roles starting summe
 - https://jacksonvanv.github.io/wingwatch/
 - Flight tracker allowing users to search by route or flight number that shows the key information on a simple UI
 
+**Practice Logger**
+- https://jacksonvanv.github.io/practicelogger/
+- Website I use to keep track of my clarinet practice sessions, with natively embedded video recording capabilities.
+
 **Connect 4**
 - PyGame Connect 4 for two players
 - Supports Connect N, where players only win with N in a row
